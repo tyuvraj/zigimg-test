@@ -1,0 +1,4 @@
+.zig-cache/*
+assets/*
+zig-out/*
+
